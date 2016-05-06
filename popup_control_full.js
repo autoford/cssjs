@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://vespagiatot.net/ban-xe-vespa-lx-tra-gop-tai-hcm/' target='_blank'><img src='http://vespagiatot.net/wp-content/uploads/2015/04/quytrinh1.png' width='500px'/>Bán xe Vespa chính hãng</a>. Tại Hồ Chí Minh <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://xefordbenthanh.com/' target='_blank'><img src='https://3.bp.blogspot.com/-W5OhkG6K33Q/VywWOxGMaYI/AAAAAAAAApk/HBgM2Bak1-0JRLUUZW3U016Q3hAzwelHgCLcB/s400/LAI%2BTHU%2BXE.png' width='500px'/>Mua Bán Xe Ford Giá Rẻ</a>. Tại Hồ Chí Minh <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
